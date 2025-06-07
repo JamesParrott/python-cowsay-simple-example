@@ -1,9 +1,9 @@
 [project]
-name = "my-cowsay"
+name = "simple-python-project-for-pycrucible"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
-    "python-cowsay>=1.2.0",
+    "cowsay>=6.1",
 ]
